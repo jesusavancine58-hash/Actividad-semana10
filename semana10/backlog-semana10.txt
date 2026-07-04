@@ -1,0 +1,5 @@
+omo miembro del equipo quiero consultar el estado de los reportes para hacer seguimiento a cada caso.
+
+Como administrador quiero asignar los reportes a los responsables para organizar mejor el trabajo del equipo.
+
+Como veedor ciudadano quiero adjuntar fotografías o documentos como evidencia para respaldar cada reporte.

@@ -1,0 +1,13 @@
+Tareas que haría primero:
+1. Implementar el registro de incidencias por parte de los ciudadanos.
+2. Configurar las notificaciones automáticas en Telegram para informar sobre nuevos reportes.
+
+¿Por qué son las más importantes?
+Porque el registro de incidencias es la función principal de la plataforma y permite recopilar la información necesaria. Las notificaciones en Telegram ayudan a que el equipo de veeduría conozca los nuevos reportes de forma rápida y pueda darles seguimiento oportuno.
+
+Definición de "terminado":
+Una tarea se considera terminada cuando:
+- La funcionalidad funciona correctamente.
+- Fue probada y no presenta errores importantes.
+- Quedó registrada en Git con su respectivo commit.
+- La documentación básica fue actualizada si fue necesario.
